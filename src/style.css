@@ -1,0 +1,13 @@
+.hello {
+  color: red;
+  background: url("./lta-logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 200px;
+}
+.logo {
+  height: 200px;
+  width: 200px;
+  display: block;
+}
